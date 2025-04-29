@@ -10,7 +10,7 @@
 - `Kongju National University, Software Engineering` (2021.02 ~)
 
 ### 💻 Contribution
-- [Socializer](https://github.com/m48483/SocializerRepo)
+- [SocializerRepo](https://github.com/m48483/SocializerRepo)
   - Participated in a game development project as a UI designer
 
 ### 📝 Certification

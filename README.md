@@ -2,7 +2,7 @@
 
 ### Interest
 - Algorithm
-- Information Security
+- Obtain the Information Security Engineer Certificate
 - Managing a Linux Server
 - Innovative and optimized service logic
 

@@ -1,4 +1,6 @@
-<a target="_blank" href="https://solved.ac/profile/wjy4ng"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjy4ng"></a>
+<!--
+<a target="_blank" href="https://solved.ac/profile/wjy4ng"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjy4ng"></a> 
+-->
 
 ### 🔥 Interest
 - Algorithm

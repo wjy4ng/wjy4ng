@@ -1,4 +1,4 @@
-#### ☺️ Hi, I'm Wonjun-Yang ☺️
+#### Hello, World! 👋
 ```python
 class Introduction():
     def __init__(self):

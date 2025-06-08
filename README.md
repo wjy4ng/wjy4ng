@@ -1,16 +1,27 @@
-## Hi there 👋
+#### ☺️ Hi, I'm Wonjun-Yang ☺️
+```python
+class Introduction():
+    def __init__(self):
+        self._set_personal_info()
+        self._set_skills()
+        self._set_achievements()
 
-<!--
-**wjy4ng/wjy4ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def _set_personal_info(self):
+        self.age = 24
+        self.job = "student_in_KNU"
 
-Here are some ideas to get you started:
+    def _set_skills(self):
+        self.tech_stack = ["Python", "Kali_Linux", "Docker"]
+        self.current_interests = ["AWS",
+                                   "JavaScript",
+                                   "Express",
+                                   "Information Security Engineer Certificate"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def _set_achievements(self):
+        self.experience = ["Socializer", "knu-notice", "Tocky"]
+        self.certifications = ["Information Processing Engineer Certificate",
+                               "Computer Specialist in Spreadsheet & Database Level-1"]
+
+if __name__=="__main__":
+    Wonjun_Yang = Introduction()
+```

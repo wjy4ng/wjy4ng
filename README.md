@@ -26,5 +26,5 @@ class Introduction():
                                "Computer Specialist in Spreadsheet & Database Level-1"]
 
 if __name__=="__main__":
-    Wonjun_Yang = Introduction()
+    wonjun_yang = Introduction()
 ```

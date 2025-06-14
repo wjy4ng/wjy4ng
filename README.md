@@ -10,7 +10,7 @@ class Introduction():
         self.job = "student_in_KNU"
 
     def _skills(self):
-        self.tech_stack = ["Python", "Java", "Kali Linux", "Docker", "Android"]
+        self.tech_stack = ["Python", "Java", "Kali Linux"]
         self.current_interests = ["AWS",
                                    "JavaScript",
                                    "Express",

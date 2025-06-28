@@ -11,8 +11,7 @@ class Introduction():
 
     def _skills(self):
         self.tech_stack = ["Python", "Java", "Kali Linux"]
-        self.current_interests = ["AWS",
-                                   "Django",
+        self.current_interests = ["AWS", "Django",
                                    "Engineer Information Security"]
 
     def _achievements(self):

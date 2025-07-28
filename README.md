@@ -10,9 +10,8 @@ class Introduction():
         self.job = "student_in_KNU"
 
     def _skills(self):
-        self.tech_stack = ["Python", "Java", "Kali Linux"]
-        self.current_interests = ["AWS", "Django",
-                                   "Engineer Information Security"]
+        self.tech_stack = ["Python", "AWS", "Django"]
+        self.current_interests = ["Engineer Information Security"]
 
     def _achievements(self):
         self.projects = {

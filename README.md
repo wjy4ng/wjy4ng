@@ -5,9 +5,9 @@
 *- Software Engineer at <a href="https://www.kongju.ac.kr/KNU/index.do">Kongju National Univ</a>*<br>
 *- Backend & Security Enthusiast*<br>
 
-### A Self-Portrait in Code <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### A Self-Portrait in Code 🔥
 ```python
-class Me:
+class WonjunYang:
     def _skills(self):
 	self.tech = ["Python", "AWS", "Django"]
 	self.interests = ["Engineer Information Security"]

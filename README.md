@@ -4,6 +4,7 @@
 
 *- Software Engineer at <a href="https://www.kongju.ac.kr/KNU/index.do">Kongju National Univ</a>*<br>
 *- Backend & Security Enthusiast*<br>
+*- Here's my blog! 👉 <a href="https://wjy4ng.github.io/">wjy4ng's Tech Blog</a>*<br>
 
 ### A Self-Portrait in Code <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ```python

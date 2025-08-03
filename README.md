@@ -1,5 +1,5 @@
 ## Hi, I'm Wonjun ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<img align='right' src="https://github.com/user-attachments/assets/2f89d992-edab-48df-a3f3-ea12e3c59048" width="300">
+<img align='right' src="https://github.com/user-attachments/assets/baf3a523-c55c-4c4b-9bf1-09d990f011d1" width="250">
 <img align='left' src="https://github.com/user-attachments/assets/ae43f73b-0681-4e3c-8f6f-51f5b4bce7b5" width="60">
 
 *- Software Engineer at <a href="https://www.kongju.ac.kr/KNU/index.do">Kongju National Univ</a>*<br>

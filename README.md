@@ -9,14 +9,14 @@
 ```python
 class WonjunYang:
     def __init__(self):
-	self.tech = ["Python", "AWS", "Django"]
-	self.interests = ["정보보안기사"]
+	self.tech = ['Python', 'AWS', 'Django']
+	self.interests = ['정보보안기사']
 
     def _achievements(self):
 	self.projects = {
-	    "Socializer": "PC형 1인칭 텍스트 어드벤쳐 게임 팀프로젝트 UI 디자인",
-	    "knu-notice": "공주대학교 공지사항 알림 서비스",
-	    "Tocky": "안드로이드 기반 TOTP (Time-based One-Time Password) 관리자 앱",
-	    "grand-trade-auto": "머신러닝 기반 중고차 가격 예측 서비스"}
-	self.certifications = ["정보처리기사", "컴활1급"]
+	    'Socializer': 'PC형 1인칭 텍스트 어드벤쳐 게임 팀프로젝트 UI 디자인',
+	    'knu-notice': '공주대학교 공지사항 알림 서비스',
+	    'Tocky': '안드로이드 기반 TOTP (Time-based One-Time Password) 관리자 앱',
+	    'grand-trade-auto': '머신러닝 기반 중고차 가격 예측 서비스'}
+	self.certifications = ['정보처리기사', '컴활1급']
 ```

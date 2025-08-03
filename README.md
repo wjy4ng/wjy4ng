@@ -1,10 +1,6 @@
+## Hi, I'm Wonjun ! 
 ```python
-class Introduction():
-    def __init__(self):
-        self._personal_info()
-        self._skills()
-        self._achievements()
-
+class Me:
     def _personal_info(self):
         self.age = 24
         self.job = "student_in_KNU"
@@ -21,7 +17,4 @@ class Introduction():
 	    "grand-trade-auto": "머신러닝 기반 중고차 가격 예측 서비스"}
         self.certifications = ["Engineer Information Processing",
                                "Computer Specialist in Spreadsheet & Database Level-1"]
-
-if __name__=="__main__":
-	wonjun_yang = Introduction()
 ```

@@ -18,3 +18,5 @@ class Me:
         self.certifications = ["Engineer Information Processing",
                                "Computer Specialist in Spreadsheet & Database Level-1"]
 ```
+
+![](./profile-3d-contrib/profile-green-animate.svg)

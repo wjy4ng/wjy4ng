@@ -8,7 +8,7 @@
 ### A Self-Portrait in Code <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ```python
 class WonjunYang:
-    def _skills(self):
+    def __init__(self):
 	self.tech = ["Python", "AWS", "Django"]
 	self.interests = ["정보보안기사"]
 

@@ -11,7 +11,7 @@
 class WonjunYang:
     def __init__(self):
 		self.tech = ['Python', 'AWS', 'Django']
-		self.interests = ['정보보안기사', 'kali linux']
+		self.interests = ['정보보안기사', 'BlackArch Linux']
 
     def _achievements(self):
 		self.projects = {

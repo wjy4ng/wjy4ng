@@ -1,4 +1,4 @@
-## 📌 Wonjun's Github
+## 📌 wjyang's Github
 <img align='right' src="https://github.com/user-attachments/assets/afba7ec7-2266-4aa0-bced-66571f515c0f" width="225">
 <img align='left' src="https://github.com/user-attachments/assets/ae43f73b-0681-4e3c-8f6f-51f5b4bce7b5" width="60">
 
@@ -7,7 +7,7 @@
 *- Here's my blog! 👉 <a href="https://wjy4ng.github.io/">wjy4ng's Tech Blog</a>*<br>
 
 
-### A little more about me... <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+### 📌 about me... <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ```python
 class WonjunYang:
     def __init__(self):

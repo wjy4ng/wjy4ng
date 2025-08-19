@@ -1,10 +1,12 @@
-## Hi, there 👋
+## wjyang's Github 🥇
 <img align='right' src="https://github.com/user-attachments/assets/afba7ec7-2266-4aa0-bced-66571f515c0f" width="225">
 <img align='left' src="https://github.com/user-attachments/assets/ae43f73b-0681-4e3c-8f6f-51f5b4bce7b5" width="60">
 
 *- Software Engineer at <a href="https://www.kongju.ac.kr/KNU/index.do">Kongju National Univ</a>*<br>
 *- Backend & Security Enthusiast*<br>
-*- Here's my blog! 👉 <a href="https://wjy4ng.github.io/">wjy4ng's Tech Blog</a>*<br>
+*- Here's my blog 👉 <a href="https://wjy4ng.github.io/">wjy4ng's Tech Blog</a>*<br>
+
+<br>
 
 ```python
 class WonjunYang:

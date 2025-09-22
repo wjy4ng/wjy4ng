@@ -20,5 +20,5 @@ class WonjunYang:
 	    	'knu-notice': '공주대학교 공지사항 알림 서비스',
 	    	'Tocky': '안드로이드 기반 TOTP (Time-based One-Time Password) 관리자 앱',
 	    	'grand-trade-auto': '머신러닝 기반 중고차 가격 예측 서비스'}
-		self.certifications = ['정보처리기사', '컴활1급']
+		self.certifications = ['정보처리 기능사·산업기사·기사', '컴활1급']
 ```
